@@ -30,7 +30,10 @@ Once you have received access approval:
 3. Search for "GitHub Copilot"
 4. Click on **Install**
 
-![VS Code Extensions Panel](https://i.placeholder.com/600x300)
+![VS Code Extensions Panel](static/install_vs_extensions.png)
+
+test2 
+<img src="static/install_vs_extensions.png" alt="Banner" width="600"/>
 
 ### 3. Authenticate GitHub Copilot
 
@@ -150,3 +153,21 @@ Format the content using Markdown (headers, bullet points, bold text, and new li
 Document each phase of the tutorial slowly and step by step, ensuring it is easy for others to understand how to enable and start using GitHub Copilot.
 "
 </i>
+
+
+---
+
+## Final Note: Collaborate with AI Wisely
+
+While GitHub Copilot is a powerful tool that can significantly boost your productivity, it is important to remember that AI-generated suggestions should always be reviewed and verified. Use Copilot as a collaborative partner, and ensure that you:
+
+- **Carefully review** any code or recommendations provided.
+- **Cross-check** AI-generated outputs against your project requirements.
+- **Maintain a healthy skepticism** and don't rely solely on the AI's suggestions.
+- **Collaborate** with the tool by integrating its input with your own expertise to produce the best results.
+
+By following these guidelines, you can effectively work with GitHub Copilot while ensuring the quality and integrity of your code.
+
+
+
+
