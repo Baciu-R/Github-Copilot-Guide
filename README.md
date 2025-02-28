@@ -99,7 +99,55 @@ If you encounter issues:
 
 ---
 
-*For a peak into LLM capabilities, this whole document was creating using the following prompt:
+
+---
+
+<i>
+For a peek into LLM capabilities, this whole document was created using the following prompt:
+
+Presumptions:
+
+Assume the user has just completed the Confluence (Company Documentation) regarding GitHub Copilot.  
+The user has:  
+- Registered an account.  
+- Requested access to the company’s GitHub.  
+Objective: Enable GitHub Copilot
+
+Request Access to Copilot:
+
+Navigate to: GitHub Copilot Settings.  
+Scroll to the bottom of the page.  
+Click on "Request Access from Organization".
+
+Install the Copilot Plugin:
+
+Install the GitHub Copilot plugin in your IDE (e.g., Visual Studio Code).
+
+GitHub Copilot Login & Authorization:
+
+Log in to GitHub Copilot within Visual Studio Code.  
+Authorize the plugin as required.
+
+Start Using GitHub Copilot:
+
+Locate the Chat icon on the left sidebar.  
+Try a few basic commands to explore the possibilities.
+
+Documentation Task:
+
+Create a Markdown File:
+
+Create a file in your current directory with the .md extension.  
+Name the file GitHub-Copilot-Guide.MD.
+
+Content Requirements:
+
+Include all of the above steps.  
+Add any additional details needed for clarity.  
+Format the content using Markdown (headers, bullet points, bold text, and new lines) to ensure it is clear and visually appealing.  
+Document each phase of the tutorial slowly and step by step, ensuring it is easy for others to understand how to enable and start using GitHub Copilot.
+</i>
+
 
 "
 "
