@@ -14,6 +14,8 @@ GitHub Copilot requires specific permissions from your organization before you c
 
 1. Navigate to [GitHub Copilot Settings](https://github.com/settings/copilot?editor=copilot_1.250.0)
 2. Scroll to the bottom of the page
+
+
 3. Click on **"Request access from organization"**
 4. Wait for approval from your organization administrator
 
@@ -97,14 +99,12 @@ If you encounter issues:
 - [Visual Studio Code Marketplace: GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [GitHub Copilot Chat Documentation](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat)
 
----
-
 
 ---
 
 <i>
-For a peek into LLM capabilities, this whole document was created using the following prompt:
-
+### For a peek into LLM capabilities, this whole document was created using the following prompt:
+"
 Presumptions:
 
 Assume the user has just completed the Confluence (Company Documentation) regarding GitHub Copilot.  
@@ -146,10 +146,5 @@ Include all of the above steps.
 Add any additional details needed for clarity.  
 Format the content using Markdown (headers, bullet points, bold text, and new lines) to ensure it is clear and visually appealing.  
 Document each phase of the tutorial slowly and step by step, ensuring it is easy for others to understand how to enable and start using GitHub Copilot.
+"
 </i>
-
-
-"
-"
-
-*
