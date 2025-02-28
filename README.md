@@ -64,7 +64,7 @@ Access the more powerful features through the Copilot Chat interface:
 1. Click on the **Chat icon** in the left sidebar of VS Code
 2. Type your questions or commands in the chat panel
 
-![Copilot Chat Interface]<img src="static/chat_ui.png" alt="Banner" width="600"/>
+<img src="static/chat_ui.png" alt="Banner" width="600"/>
 
 ### Example Commands
 
@@ -108,11 +108,11 @@ If you encounter issues:
 ### Examples of integrating GitHub Copilot:
 
 ## I. Code Understanding & completion
-![Copilot Chat Interface]<img src="static/further_possibilities.png" alt="Banner" width="600"/>
+<img src="static/further_possibilities.png" alt="Banner" width="600"/>
 
 
 ## II. General Code Review & Feedback
-![Copilot Chat Interface]<img src="static/further_possibilities2.png" alt="Banner" width="600"/>
+<img src="static/further_possibilities2.png" alt="Banner" width="600"/>
 
 ---
 
