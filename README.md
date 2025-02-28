@@ -171,5 +171,6 @@ While GitHub Copilot is a powerful tool that can significantly boost your produc
 By following these guidelines, you can effectively work with GitHub Copilot while ensuring the quality and integrity of your code.
 
 
+---
 
-
+Continue Reading on Confluence - [How to Migrate a TFS Project to Github](https://yardi.atlassian.net/wiki/spaces/BUIL/pages/403570783/Migrating+a+project+from+TFS+to+Github)
