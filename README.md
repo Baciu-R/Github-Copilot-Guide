@@ -119,7 +119,7 @@ If you encounter issues:
 ## III. Further into LLMs 
 
 
-**For a peek into LLM capabilities, this whole document was created mostly using the following prompt:**
+**For a peek into LLM capabilities, this whole document was created mostly building on top of the following prompt:**
 
 <i>
 
