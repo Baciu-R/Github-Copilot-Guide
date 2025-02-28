@@ -6,6 +6,8 @@ Before enabling GitHub Copilot, ensure you have completed the following:
 - [x] Registered a GitHub account
 - [x] Requested access to the company organization on GitHub
 
+If not completed yet, follow [Internal Confluence Guide on GitHub](https://yardi.atlassian.net/wiki/spaces/BUIL/pages/352585011/Creating+your+GitHub+account+and+requesting+access+to+repositories).
+
 ## Enabling GitHub Copilot
 
 ### 1. Request Access to GitHub Copilot
