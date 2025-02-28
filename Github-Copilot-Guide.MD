@@ -17,6 +17,7 @@ GitHub Copilot requires specific permissions from your organization before you c
 1. Navigate to [GitHub Copilot Settings](https://github.com/settings/copilot?editor=copilot_1.250.0)
 2. Scroll to the bottom of the page
 
+<img src="static/request_access.png" alt="Banner" width="600"/>
 
 3. Click on **"Request access from organization"**
 4. Wait for approval from your organization administrator
@@ -33,9 +34,6 @@ Once you have received access approval:
 4. Click on **Install**
 
 ![VS Code Extensions Panel](static/install_vs_extensions.png)
-
-test2 
-<img src="static/install_vs_extensions.png" alt="Banner" width="600"/>
 
 ### 3. Authenticate GitHub Copilot
 
@@ -66,7 +64,7 @@ Access the more powerful features through the Copilot Chat interface:
 1. Click on the **Chat icon** in the left sidebar of VS Code
 2. Type your questions or commands in the chat panel
 
-![Copilot Chat Interface](https://i.placeholder.com/600x300)
+![Copilot Chat Interface]<img src="static/chat_ui.png" alt="Banner" width="600"/>
 
 ### Example Commands
 
@@ -107,7 +105,21 @@ If you encounter issues:
 
 ---
 
-**For a peek into LLM capabilities, this whole document was created using the following prompt:**
+### Examples of integrating GitHub Copilot:
+
+## I. Code Understanding & completion
+![Copilot Chat Interface]<img src="static/further_possibilities.png" alt="Banner" width="600"/>
+
+
+## II. General Code Review & Feedback
+![Copilot Chat Interface]<img src="static/further_possibilities2.png" alt="Banner" width="600"/>
+
+---
+
+## III. Further into LLMs 
+
+
+**For a peek into LLM capabilities, this whole document was created mostly using the following prompt:**
 
 <i>
 
