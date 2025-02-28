@@ -102,8 +102,10 @@ If you encounter issues:
 
 ---
 
+**For a peek into LLM capabilities, this whole document was created using the following prompt:**
+
 <i>
-### For a peek into LLM capabilities, this whole document was created using the following prompt:
+
 "
 Presumptions:
 
